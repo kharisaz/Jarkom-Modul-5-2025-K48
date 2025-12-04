@@ -319,7 +319,7 @@ up echo nameserver 192.168.122.1 > /etc/resolv.conf
 ping 192.235.0.30 -c 4
 ```
 
-![](src/subnetting.jpg)
+![](src/1-3.png)
 
 ### Nomor 4 (Pengerjaan ini seletah Misi 2 Nomor 1)
 
@@ -536,7 +536,7 @@ Ping google.com, dan harus reply
 ping google.com -c 3
 ```
 
-![](src/)
+![](src/1-4.png)
 
 ## Misi 2
 
@@ -568,7 +568,7 @@ ping google.com -c3
 ping google.com -c3
 ```
 
-![](src/)
+![](src/2-1.png)
 
 ### Nomor 2
 
@@ -668,7 +668,6 @@ nc -zv -w 3 192.235.0.42 53
 Terakhir, hapus setelah pengujian
 
 ![](src/2-3.1.png)
----
 ![](src/2-3.2.png)
 
 ### Nomor 4
@@ -723,7 +722,6 @@ date -s "2025-10-04 10:00:00"
 ```
 
 ![](src/2-4.1.png)
----
 ![](src/2-4.2.png)
 
 ### Nomor 5
